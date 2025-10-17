@@ -44,3 +44,24 @@
 ---
 
 ## 📂 ディレクトリ構成（例）
+
+
+.
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── index.html
+├── error.html
+└── README.md
+
+---
+
+## 🧑‍💻 作者
+- 名前：中村 真也（Shinya Nakamura）
+- GitHub：@Shinya-Labs
+- 資格：CCNA / LPIC Lv.2 / 学習中：LPIC Lv.3 305, AWS SAA
+
+---
+
+## 📣 ライセンス
+MIT License
